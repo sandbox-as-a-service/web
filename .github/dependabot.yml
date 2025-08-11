@@ -9,6 +9,8 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
+      time: "12:00"
+      timezone: "UTC"
     registries:
       - github-packages
 
