@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@sandbox-as-a-service/ui':
-        specifier: 1.8.1
-        version: 1.8.1(@types/react@19.1.10)(lucide-react@0.539.0(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)(tailwindcss@4.1.12)(tw-animate-css@1.3.7)
+        specifier: 1.8.2
+        version: 1.8.2(@types/react@19.1.10)(lucide-react@0.539.0(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)(tailwindcss@4.1.12)(tw-animate-css@1.3.7)
       react:
         specifier: ^19.1.0
         version: 19.1.1
@@ -434,8 +434,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@sandbox-as-a-service/ui@1.8.1':
-    resolution: {integrity: sha512-yr5VUza8HCAwKSS9LBzFt98I8LI+6wfI4WUCgH44eQU4SFdltldUPzekA69bzlfZFK8aahjZasEp/rh33+mHAA==, tarball: https://npm.pkg.github.com/download/@sandbox-as-a-service/ui/1.8.1/3462ebda70fa741257a10ca7ab298ec0f8e4ca8c}
+  '@sandbox-as-a-service/ui@1.8.2':
+    resolution: {integrity: sha512-PXBqtjtpK+kvUZjBCbsOwgtf9xo2yiOxXH9Ih5uzq5ksKhbrK9i/1hNlWnjfy87/sPv2KapCLGpNhSrZVdNK+g==, tarball: https://npm.pkg.github.com/download/@sandbox-as-a-service/ui/1.8.2/c5bf593ec9929ef4b4e3bb3272a4b4a482ae84e5}
     peerDependencies:
       lucide-react: '>=0.539.0'
       react: ^19
@@ -1684,7 +1684,7 @@ snapshots:
   '@rollup/rollup-win32-x64-msvc@4.46.3':
     optional: true
 
-  '@sandbox-as-a-service/ui@1.8.1(@types/react@19.1.10)(lucide-react@0.539.0(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)(tailwindcss@4.1.12)(tw-animate-css@1.3.7)':
+  '@sandbox-as-a-service/ui@1.8.2(@types/react@19.1.10)(lucide-react@0.539.0(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)(tailwindcss@4.1.12)(tw-animate-css@1.3.7)':
     dependencies:
       '@radix-ui/react-slot': 1.2.3(@types/react@19.1.10)(react@19.1.1)
       class-variance-authority: 0.7.1
